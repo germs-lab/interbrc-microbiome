@@ -115,7 +115,7 @@ ggplot(data = core_data, aes(x = Prevalence)) +
 With a partner, make a histogram of total abundance -or- proportional prevalence.  Can you make a plot of abundance vs prevelance?  There is a hint below.
 
 ```
-ggplot(data = dat, aes(x = ___, y = ___)) +
+ggplot(data = core_data, aes(x = ___, y = ___)) +
   geom_point() +
   theme_minimal() +
   labs(title = "Scatter Plot of Prevalence vs Total Abundance",
