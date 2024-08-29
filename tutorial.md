@@ -44,6 +44,7 @@ First, set the working directory with *setwd* in R to your tutorial working dire
 setwd("~/Box Sync/sro-analysis-core/")
 library(vegan)
 library(phyloseq)
+library(tidyverse)
 ```
 
 ## Load Data
