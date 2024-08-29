@@ -133,7 +133,7 @@ prev_cutoff <- core_data[core_data$Prop_Prev > threshold_prev,] # Only the preva
 prev_cutoff
 abund_cutoff <- prev_cutoff[prev_cutoff$TotalAbundance > threshold_abund,]
 taxa_to_filter <- rownames(abund_cutoff)
-length(myTaxa)
+length(taxa_to_filter)
 mycore = prune_taxa(taxa_to_filter, ps)
 ```
 
