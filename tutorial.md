@@ -83,7 +83,7 @@ With a new partner, discuss the what the above code accomplished.  What did `sam
 ## Making another "core" phyloseq object
 You now have a phyloseq object called `ps_core`, which is a type of core defined by the 10 most abundant taxa.  You can also define cores other ways.
 
-#You can filter taxa by abundance - where the taxa have an average abundance among samples over 100 observations
+You can filter taxa by abundance - where the taxa have an average abundance among samples over 100 observations
 
 ```
 ps_core_alt <- filter_taxa(ps, function(x) mean(x) > 100, TRUE)
@@ -138,7 +138,7 @@ mycore = prune_taxa(taxa_to_filter, ps)
 ```
 
 ### Task 4
-Choose a way to define a core.  Can you create a phyloseq object with taxa that meet your prevalance and abundance thresholds?  You can either subset from teh core phyloseq object or from the larger phyloseq object.  [Hint:  `prune_taxa`]
+Choose a way to define a core.   Can you create a phyloseq object with taxa that meet your prevalance and abundance thresholds?  You can either subset from the core phyloseq object or from the larger phyloseq object.  [Hint:  `prune_taxa`]
 
 ## Adding a label of core or not core to your table
 
