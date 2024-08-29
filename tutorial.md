@@ -137,7 +137,7 @@ length(taxa_to_filter)
 mycore = prune_taxa(taxa_to_filter, ps)
 ```
 
-### Task 4
+### Task 4.
 Choose a way to define a core.   Can you create a phyloseq object with taxa that meet your prevalance and abundance thresholds?  You can either subset from the core phyloseq object or from the larger phyloseq object.  [Hint:  `prune_taxa`]
 
 ## Adding a label of core or not core to your table
@@ -163,7 +163,7 @@ core_taxa <- rownames(abund_cutoff)
 data_table$core_id <- ifelse(rownames(data_table) %in% core_taxa, "core", "other")
 ```
 
-### Task 5 
+### Task 5.
 
 Make a prevalence abundance plot of the core and non-core.
 
@@ -182,7 +182,7 @@ ggplot(data = data_table, aes(x = ___, y = ___, color=core_id)) +
 
 Now that you can create a phyloseq object of your core, you can do a lot of things with microbiome packages.  Phyloseq is a great place to start.
 
-### Task 6
+### Task 6.
 
 Make a bar chart of the of phylogenies in the core.  You can see this [tutorial](https://joey711.github.io/phyloseq/plot_bar-examples.html)
 
