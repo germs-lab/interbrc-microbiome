@@ -20,7 +20,9 @@ layout: home
 
 03:00 – 05:00: Tutorial
 
-06:00 – 09:00: Dinner and Axe Throwing (optional)
+05:30 – 7:00: Dinner at [Dublin Bay](https://dublinbayames.com/)
+
+7:30 - 9:00 Axe Throwing (optional)
 
  
 
