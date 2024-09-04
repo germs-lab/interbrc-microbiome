@@ -16,7 +16,7 @@ layout: home
 
 12:30 – 02:30: Research talks from two BRCs
 
-02:30 – 03:00: Identify questions for exercise
+02:30 – 03:00: Identify questions for exercise 
 
 03:00 – 05:00: Tutorial
 
@@ -29,7 +29,7 @@ layout: home
 ## September 10:
 08:30 – 09:30:  Breakfast
 
-09:30 – 10:00: Presentation of results
+09:30 – 10:00: Presentation of results (Discussion on NMDC)
 
 10:00 [Post Workshop Assessment](https://forms.gle/YuLvP1nbwYJYNgdy5)
 
