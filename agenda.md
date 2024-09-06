@@ -34,6 +34,9 @@ layout: home
  
 
 ## September 10:
+
+08:10:  Shuttle Pick Up
+
 08:30 – 09:30:  Breakfast
 
 09:30 – 10:00: Presentation of results (Discussion on NMDC)
