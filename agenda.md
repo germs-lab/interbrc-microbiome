@@ -6,15 +6,22 @@ layout: home
 # Workshop agenda:
 
 ## September 9:
+
+08:10  Shuttle pick up from Comfort Inn
+
 08:30 – 09:30: Working Breakfast and Introduction
 
-09:30 – 10:30:  Workshop Objectives and Activity
+09:30 – 10:20:  Workshop Objectives and Activity
+
+10:20 - 10:30: Short Break
 
 10:30 – 11:30: Research talks from two BRCs
 
 11:30 – 12:30: Lunch
 
-12:30 – 02:30: Research talks from two BRCs
+12:30 – 02:20: Research talks from two BRCs
+
+02:20 - 02:30: Short Break (Coffee)
 
 02:30 – 03:00: Identify questions for exercise 
 
