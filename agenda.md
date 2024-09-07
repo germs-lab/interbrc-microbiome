@@ -7,11 +7,13 @@ layout: home
 
 ## September 9:
 
-08:10  Shuttle pick up from Comfort Inn
+08:10: - Shuttle pick up from Comfort Inn (Meet in Lobby)
 
-08:30 – 09:30: Working Breakfast and Introduction
+08:30: - Breakfast 
 
-09:30 – 10:20:  Workshop Objectives and Activity
+09:00: - Introduction
+
+09:30 – 10:20:  Workshop Objectives and Brainstorming Activity
 
 10:20 - 10:30: Short Break
 
