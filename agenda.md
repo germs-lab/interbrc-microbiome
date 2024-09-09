@@ -11,7 +11,7 @@ layout: home
 
 08:30: - Breakfast 
 
-09:00: - Introduction [pre-workshop assessment](https://forms.gle/1Q2qT3F799v35P8x5))
+09:00: - Introduction ([pre-workshop assessment](https://forms.gle/1Q2qT3F799v35P8x5))
 
 09:30 – 10:20:  Workshop Objectives and Brainstorming Activity on "Core"
 
