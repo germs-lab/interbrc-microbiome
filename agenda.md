@@ -21,14 +21,16 @@ layout: home
 
 11:30 – 12:30: Lunch (Mediterranean)
 
-12:30 – 02:20: Research talks from Sarah Lebeis (GLBRC) & Yen Ning Chai (JBEI)
+12:30 – 01:30: Research talks from Sarah Lebeis (GLBRC) & Yen Ning Chai (JBEI)
+
+1:30 - 1:45:  Lab Tour (optional) 
+
+1:45 - 2:20 Identify questions - how do you want to define the core? What should our questions be
+between BRCS?
 
 02:20 - 02:30: Short Break (Coffee)
 
-02:30 – 03:00: Identify questions - how do you want to define the core? What should our questions be
-between BRCS?
-
-03:00 – 05:00: Tutorial
+02:30 – 05:00: Tutorial
 
 05:30 – 7:00: Dinner at [Dublin Bay](https://dublinbayames.com/)
 
