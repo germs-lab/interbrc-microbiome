@@ -20,5 +20,10 @@ We are encouraging the group to make reservations at the [Comfort Inn & Suites A
 ### Workshop Location
 The workshop will be held in Room 1306 Elings Hall at Iowa State University. Limited parking is available nearby and can be reserved by contacting Lorien Radmer, lradmer@iastate.edu 
 
+Shared route
+From Comfort Inn & Suites Ames near ISU Campus, 603 S 16th St, Ames, IA 50010 to Lot 6, 2045 Sheldon Ave Ext, Ames, IA 50011 via S 16th St, S University Blvd and Lincoln Way.
+
+[Driving](https://maps.app.goo.gl/NiXnWArEN3rfKTxS6?g_st=ac)
+
 ### Workshop prerequisites
 A laptop is required.  We have provided some papers to read before the workshop and directions for installing software used during the workshop in the [preparation section](https://www.germslab.org/interbrc-microbiome/prep.html) of this site. Please also fill in this anonymous [pre-workshop assessment](https://forms.gle/1Q2qT3F799v35P8x5), which allows us to understand the skills and goals of the participants.
