@@ -44,7 +44,7 @@ between BRCS?
 
 09:30 – 10:00: Presentation of results (Discussion on NMDC)
 
-10:00 [Post Workshop Assessment](https://forms.gle/YuLvP1nbwYJYNgdy5)
+10:00 [Post Workshop Assessment](https://forms.gle/HEcdL355J6hErjsi7)
 
 10:00 – 11:00: Write up results 
 
