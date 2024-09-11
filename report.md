@@ -30,7 +30,7 @@ The next day, we discussed the results of the tutorial and the identified [core]
 * Applications of how the core has helped us understand microbial interactions
 * Case studies from BRCs of defining a core and its impact (Fertilization impacts, drought impacts, and within and across site diversity)
 
-![core_plot](./core.pdf)
+![core_plot](./core.jpg)
 
 Two teams were created, one to synthesize literature and concepts and one to perform the analysis on BRC datasets. 
 
