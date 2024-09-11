@@ -5,7 +5,7 @@
 The workshop was very impactful and benefited from the engagement of representives across the BRCs (from early career to PIs). We all came together to discuss and quantify the "core" microbiome betweeen BRC feedstocks.  This output was successfully accomplished. This conversation, however, ended up being what brought us together. The discussions of the workshop were broader spanning towards future opportunities that could most benefit from our collaborations.  
 
 ## Detailed Activities 
-We began the workshop by identifying what the critical needs that would be served by inter-BRC collaborations would be.  Individuals were asked to contribute ideas, and then we grouped them together to identify main themes (photos)[https://github.com/germs-lab/brc-data/tree/main/workshop_discussions/brainstorm_wishlist]. Some themes that workshop participants thought were important for the inter-BRC efforts to consider:
+We began the workshop by identifying what the critical needs that would be served by inter-BRC collaborations would be.  Individuals were asked to contribute ideas, and then we grouped them together to identify main themes [photos](https://github.com/germs-lab/brc-data/tree/main/workshop_discussions/brainstorm_wishlist). Some themes that workshop participants thought were important for the inter-BRC efforts to consider:
 
 * Linking function to our questions
 * Carbon sequestration dedicated research efforts
