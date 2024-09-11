@@ -46,6 +46,8 @@ between BRCS?
 
 10:00 [Post Workshop Assessment](https://forms.gle/HEcdL355J6hErjsi7)
 
+All data for this workshop is also hosted in:  [Our Github Repo](https://github.com/germs-lab/brc-data)
+
 10:00 – 11:00: Write up results 
 
 11:00 – 12:00:  Next steps 
