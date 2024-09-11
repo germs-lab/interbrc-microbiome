@@ -22,7 +22,7 @@ We began the workshop by identifying what the critical needs that would be serve
 
 We had four research talks from each BRC.  Many workshop participants noted that this was their favorite part of the workshop because of the time to discuss ongoing research.  All four talks were amazing.
 
-In the afternoon, we hosted a tutorial to walk all participants, regardless of programming background, on how to implement criteria for defining a core on a small 16S rRNA sequencing dataset representing data across all four BRCs.  The workshop was effective for all participants. [Preworkshop Survey Results](https://docs.google.com/forms/d/1MUjx8e-lt--2qj6yHAOx_P6z0_pSfPTAPsS0clrAPXM/viewanalytics) and [Postworkshop Survey Results](https://docs.google.com/forms/d/1nV9gAqnwwFTyrJv0NwK2Naqf-aVz2ki_dIXwzLOAQQY/viewanalytics)
+In the afternoon, we hosted a tutorial to walk all participants, regardless of programming background, on how to implement criteria for defining a core on a small 16S rRNA sequencing dataset representing data across all four BRCs.  The workshop was effective for all participants. [Preworkshop Survey Results](./pre.pdf) and [Postworkshop Survey Results](./post.pdf)
 
 The next day, we discussed the results of the tutorial and the identified [core](https://github.com/germs-lab/brc-data/tree/main/workshop_discussions/core_definition_brainstorm) and potential next steps.  The team had enthusiasm for a collaborative paper discussing the core microbiome of BRC crops including:
 
