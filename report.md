@@ -37,3 +37,33 @@ Two teams were created, one to synthesize literature and concepts and one to per
 Overall, it was a terrific experience, and a lot of momentum was built to move this SRO forward into spaces that can fill the knowledge gaps of how microbes can help us grow our feedstocks.
 
 ![core_people](./core_people.jpg)
+
+## Participants
+
+Adina Howe, CABBI
+Alyssa Carrell, CBI
+Andie Suratt, CABBI
+Brandon Kristy, GLBRC
+Clarisse Siababa, CABBI
+Dana Carper, CBI
+Grace Carey, CABBI
+Henrik Scheller, JBEI
+Imani Pascoe, GLBRC
+Jae Lee, CABBI
+Janith Chandrasoma, CABBI
+Lillian Chiang, CABBI
+Lorien Radmer, CABBI
+Melissa Cregger, CBI
+Najmuj Sakib, CABBI
+Ndenum Suzzy Shitta, CBI
+Nicole Geerdes, CABBI
+Patrick Suthers, CABBI, CBI
+Phillip de Lorimier, CABBI
+Puja Bajracharya, CABBI
+Rounak Patra, CABBI
+Sarah Lebeis, GLBRC
+Stan Martin, CBI
+Tomas Rush, CBI
+Valentina Infante, GLBRC
+Yen Ning Chai, JBEI
+
