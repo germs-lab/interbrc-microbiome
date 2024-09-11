@@ -51,23 +51,23 @@ Clarisse Siababa, CABBI
 
 Dana Carper, CBI
 
-Grace Carey, CABBI
+Grace Carey, GERMS
 
 Henrik Scheller, JBEI
 
 Imani Pascoe, GLBRC
 
-Jae Lee, CABBI
+Jaejin Lee, CABBI
 
 Janith Chandrasoma, CABBI
 
-Lillian Chiang, CABBI
+Lillian Chiang, GERMS
 
 Lorien Radmer, CABBI
 
 Melissa Cregger, CBI
 
-Najmuj Sakib, CABBI
+Najmuj Sakib, GERMS
 
 Ndenum Suzzy Shitta, CBI
 
@@ -77,7 +77,7 @@ Patrick Suthers, CABBI, CBI
 
 Phillip de Lorimier, CABBI
 
-Puja Bajracharya, CABBI
+Puja Bajracharya, GERMS
 
 Rounak Patra, CABBI
 
