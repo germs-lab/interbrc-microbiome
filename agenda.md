@@ -5,6 +5,8 @@ layout: home
 
 # Workshop agenda:
 
+All data for this workshop is also hosted in:  [Our Github Repo](https://github.com/germs-lab/brc-data)
+
 ## September 9:
 
 08:10: - Shuttle pick up from Comfort Inn (Meet in Lobby)
@@ -45,8 +47,6 @@ between BRCS?
 09:30 – 10:00: Presentation of results (Discussion on NMDC)
 
 10:00 [Post Workshop Assessment](https://forms.gle/HEcdL355J6hErjsi7)
-
-All data for this workshop is also hosted in:  [Our Github Repo](https://github.com/germs-lab/brc-data)
 
 10:00 – 11:00: Write up results 
 
