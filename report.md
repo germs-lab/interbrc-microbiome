@@ -30,4 +30,10 @@ The next day, we discussed the results of the tutorial and the identified [core]
 * Applications of how the core has helped us understand microbial interactions
 * Case studies from BRCs of defining a core and its impact (Fertilization impacts, drought impacts, and within and across site diversity)
 
+![core_plot](./core.pdf)
+
 Two teams were created, one to synthesize literature and concepts and one to perform the analysis on BRC datasets. 
+
+Overall, it was a terrific experience, and a lot of momentum was built to move this SRO forward into spaces that can fill the knowledge gaps of how microbes can help us grow our feedstocks.
+
+![core_people](./core_people.jpg)
