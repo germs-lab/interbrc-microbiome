@@ -1,3 +1,9 @@
+---
+title: Summary
+layout: home
+---
+
+
 # Summary of workshop
 
 ## Overall summary
